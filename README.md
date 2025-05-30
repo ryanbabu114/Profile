@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Babu</h1>
 <h3 align="center">👨‍💻 Passionate Developer | 💡 Tech Enthusiast | 🚀 Always Learning</h3>
 
-<p align="center">
-  <a href="https://github.com/ryanbabu114">
-    <img src="https://komarev.com/ghpvc/?username=ryanbabu114&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbabu114" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 GitHub Achievements
@@ -21,11 +15,13 @@
 ### 🛠️ Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
 ---
@@ -38,6 +34,6 @@
 
 ### 🐍 Contributions Snake
 
-<img src="https://raw.githubusercontent.com/ryanbabu114/ryanbabu114/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ryanbabu114/ryanbabu114/output/snake.svg" alt="Snake animation" />
 
 ---
