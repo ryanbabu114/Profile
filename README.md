@@ -34,6 +34,6 @@
 
 ### 🐍 Contributions Snake
 
-![Snake animation](https://raw.githubusercontent.com/ryanbabu114/ryanbabu114/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ryanbabu114/output/github-contribution-grid-snake.svg)
 
 ---
