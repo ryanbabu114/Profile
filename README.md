@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **dart**
 
-- 📝 I regularly write articles on [i dont write](i dont write)
+- 📝 I regularly write articles on (i dont write)
 
 - 📫 How to reach me **ryanbabu24@gmail.com**
 
