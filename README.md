@@ -2,8 +2,8 @@
 <h3 align="center">👨‍💻 Passionate Developer | 💡 Tech Enthusiast | 🚀 Always Learning</h3>
 
 <p align="center">
-  <a href="https://github.com/ryanbabu">
-    <img src="https://komarev.com/ghpvc/?username=ryanbabu&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbabu" />
+  <a href="https://github.com/ryanbabu114">
+    <img src="https://komarev.com/ghpvc/?username=ryanbabu114&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbabu114" />
   </a>
 </p>
 
@@ -12,8 +12,8 @@
 ### 🚀 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanbabu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbabu&layout=compact&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanbabu114&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbabu114&layout=compact&theme=dracula" height="160" />
 </div>
 
 ---
@@ -38,6 +38,6 @@
 
 ### 🐍 Contributions Snake
 
-<img src="https://raw.githubusercontent.com/ryanbabu/ryanbabu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ryanbabu114/ryanbabu114/output/snake.svg" alt="Snake animation" />
 
 ---
